@@ -1,0 +1,26 @@
+body {
+    background-color: lightgreen;
+}
+
+h1 {
+    color: white;
+}
+
+p {
+    color: teal;
+}
+
+button {
+    color: green;
+}
+
+.prediction {
+    width: 400px;
+}
+
+.fortune-display {
+    border: dotted green 3px;
+    width: 350px;
+    padding: 50px;
+    margin-top: 10px;
+}
